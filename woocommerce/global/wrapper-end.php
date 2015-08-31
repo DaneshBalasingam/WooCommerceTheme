@@ -44,5 +44,3 @@ switch( $template ) {
 </div>
 
 <?php get_footer(); ?>
-
-<?php
